@@ -8,18 +8,22 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
+
 ### 🚀 Front-End
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+
 
 ### 🛠 DevOps & Tools
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+
 ### 🗄 Databases
 [![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+
 
 ### 📬 Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=&logo=instagram&logoColor=white)](https://instagram.com/your-username)
