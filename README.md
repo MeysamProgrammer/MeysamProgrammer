@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1600" height="700" alt="coding" src="https://github.com/user-attachments/assets/0e9ebd15-1903-4133-b81a-f1d3e1e4aabe" />
+<img width="2512" height="416" alt="a3c2e3ed-b5a1-4bf9-9836-7fd871a39b5e" src="https://github.com/user-attachments/assets/05cbd14e-935a-4606-8bc3-4860c0916d7b" />
 
 ### Front-End
 
